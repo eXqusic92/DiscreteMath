@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pavlo/CLionProjects/lab3_dm/main.cpp
+iostream
+-
+cmath
+C:/Users/pavlo/CLionProjects/lab3_dm/cmath
+
